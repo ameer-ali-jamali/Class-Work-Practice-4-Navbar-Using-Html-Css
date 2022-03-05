@@ -2,9 +2,9 @@ nav{
 
 background-color: darkgoldenrod;
 color: darkcyan;
+display: inline;
 }
 h1{
-    
     display: inline;
 }
 button{
@@ -12,14 +12,13 @@ button{
     color: aqua;
     border: none;
     font-size: 20px;
-    display: inline;
-
+display: inline;
 }
 button:hover{
     background-color: darkblue;
     color: brown;
 }
 .float-btn{
-    float: right;
-    display: inline;
+  float: right;
+
 }
