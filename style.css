@@ -1,4 +1,25 @@
-body{
-    background-image: url(/images/image.jpg);
-    background-repeat: no-repeat;
+nav{
+
+background-color: darkgoldenrod;
+color: darkcyan;
+}
+h1{
+    
+    display: inline;
+}
+button{
+    background-color: blue;
+    color: aqua;
+    border: none;
+    font-size: 20px;
+    display: inline;
+
+}
+button:hover{
+    background-color: darkblue;
+    color: brown;
+}
+.float-btn{
+    float: right;
+    display: inline;
 }
