@@ -6,6 +6,7 @@ color: darkcyan;
 }
 h1{
 display: inline;
+background-color: black;
 }
 button{
     background-color: blue;
@@ -24,8 +25,4 @@ button:hover{
   margin-left: 1px;
 
 }
-.float-btn2{
-    float: right;
-    margin-left: 2px;
-  
-  }
+
